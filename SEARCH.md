@@ -48,4 +48,13 @@ Use this index to find resources in the BOSC Community Library quickly.
 
 ---
 
+## Quick Search Tips
+
+Use Ctrl+F (Cmd+F on Mac) to search within this page for specific keywords.
+
+### Popular Searches
+- "contribute" - Find how to contribute
+- "license" - Find license information
+- "guide" - Find getting started guides
+
 *Last updated: May 2026*
