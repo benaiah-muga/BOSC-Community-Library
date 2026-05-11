@@ -31,3 +31,10 @@ All files in this repository should follow **kebab-case** naming convention:
 - Ensure all code is documented.
 - Maintain zero merge conflicts with the main branch.
 - Follow file naming conventions above.
+
+## Branch Naming Conventions
+
+Use descriptive branch names:
+- `fix/` for bug fixes (e.g., `fix/readme-content`)
+- `feat/` for new features (e.g., `feat/search-functionality`)
+- `refactor/` for refactoring (e.g., `refactor/organize-docs`)
