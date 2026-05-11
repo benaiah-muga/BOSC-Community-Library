@@ -14,7 +14,7 @@ Empowering inclusive communities through open knowledge, local innovation, and t
 
 - Open-source educational resources
 - Community-driven content development
-- Multi-language support
+- Multi-language support (English, Luganda, Swahili)
 - Searchable resource database
 - Comprehensive documentation
 
@@ -23,7 +23,7 @@ Empowering inclusive communities through open knowledge, local innovation, and t
 Clone the repository:
 
 ```bash
-git clone https://github.com/bos-com/BOSC-Community-Library.git
+git clone https://github.com/benaiah-muga/BOSC-Community-Library.git
 cd BOSC-Community-Library
 ```
 
@@ -43,15 +43,21 @@ BOSC-Community-Library/
 ├── .github/              # GitHub templates
 │   ├── ISSUE_TEMPLATE.md
 │   └── PULL_REQUEST_TEMPLATE.md
+├── assets/images/        # Screenshots and images
 ├── docs/                 # Documentation
 │   ├── guides/          # Tutorials and how-tos
 │   └── api/             # Technical references
+├── i18n/                 # Internationalization
+│   └── translations.json
 ├── CODE_OF_CONDUCT.md   # Community behavior standards
 ├── CONTRIBUTING.md      # Contribution guidelines
 ├── LEGAL_ANALYSIS.md    # License and legal analysis
 ├── LICENSE              # Apache 2.0 License
 ├── README.md            # This file
-└── SUSTAINABILITY.md    # Funding and sustainability strategy
+├── RESOURCE_INDEX.md    # Resource directory
+├── SEARCH.md            # Search index
+├── SUSTAINABILITY.md    # Funding and sustainability strategy
+└── SUBMISSION_LOG.md    # Project audit trail
 ```
 
 ## Contributing
