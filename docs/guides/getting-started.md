@@ -4,6 +4,10 @@
 
 Welcome to the BOSC Community Library! This guide will help you get started with using and contributing to our open-source library.
 
+## What is BOSC?
+
+The Bugema Open Source Community (BOSC) is a technology initiative by Bugema University that aims to solve real-world problems through open-source technology and community collaboration. This guide will help you get started with using and contributing to our open-source library.
+
 ## Prerequisites
 
 - Git installed on your machine
