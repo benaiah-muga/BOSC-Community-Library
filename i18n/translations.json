@@ -4,20 +4,32 @@
     "contribute": "Contribute",
     "docs": "Documentation",
     "license": "License",
-    "contact": "Contact"
+    "contact": "Contact",
+    "about": "About",
+    "community": "Community",
+    "resources": "Resources",
+    "getting_started": "Getting Started"
   },
   "lg": {
     "welcome": "Welcoma ku BOSC Community Library",
     "contribute": "Ikola",
     "docs": "Ebikwata ku bya Technical",
     "license": "Lisensia",
-    "contact": "Okufuna obuja"
+    "contact": "Okufuna obuja",
+    "about": "Ebikwata",
+    "community": "Ekibiina",
+    "resources": "Ebintu",
+    "getting_started": "Okusooka"
   },
   "sw": {
     "welcome": "Karibu kwenye Maktaba ya BOSC",
     "contribute": "Changia",
     "docs": "Hati za Kiufundi",
     "license": "Leseni",
-    "contact": "Wasiliana"
+    "contact": "Wasiliana",
+    "about": "Kuhusu",
+    "community": "Jumuia",
+    "resources": "Rasilimali",
+    "getting_started": "Kuanza"
   }
 }
