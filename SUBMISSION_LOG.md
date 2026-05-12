@@ -1,5 +1,15 @@
 # BOSC Community Library - Submission Log
 
+## Student Information
+
+**Student:** MUGANZI BENAIAH MUKOMYA
+
+**ID:** 23/BSE/BU/R/1004
+
+**Exam clearance:** 25SEM/BU/Exam372
+
+---
+
 ## Repository Information
 
 **Live URL:** https://github.com/benaiah-muga/BOSC-Community-Library
@@ -139,13 +149,3 @@ The open-source nature means anyone can fork, but the value lies in the communit
 ## Submission Date
 
 May 9, 2026
-
----
-
-## Student Information
-
-**Student:** MUGANZI BENAIAH MUKOMYA
-
-**ID:** 23/BSE/BU/R/1004
-
-**Exam clearance:** 25SEM/BU/Exam372
