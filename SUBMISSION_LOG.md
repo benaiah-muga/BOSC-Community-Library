@@ -12,18 +12,18 @@
 
 ### Recent Commits
 
-| Date | Commit | Description |
-|------|--------|-------------|
-| 2026-05-09 | 136a8df | fix: standardize file naming conventions |
-| 2026-05-09 | df42fa3 | feat: add localization support for East African languages |
-| 2026-05-09 | 15090ce | feat: add search functionality for resources |
-| 2026-05-09 | 43aa5c9 | refactor: organize documentation into structured folders |
-| 2026-05-09 | 4b600bc | fix: expand README content with comprehensive documentation |
-| 2026-05-06 | 962d325 | docs: add legal analysis for public-sector compliance |
-| 2026-05-06 | 0ad64b7 | feat: implement Apache 2.0 license |
-| 2026-05-06 | 30b1659 | docs: add technical instructions for contributors |
-| 2026-05-06 | a397b01 | docs: add community behavior standards |
-| 2026-05-06 | ba47698 | Initial commit |
+| Commit | Description |
+|--------|-------------|
+| 136a8df | fix: standardize file naming conventions |
+| df42fa3 | feat: add localization support for East African languages |
+| 15090ce | feat: add search functionality for resources |
+| 43aa5c9 | refactor: organize documentation into structured folders |
+| 4b600bc | fix: expand README content with comprehensive documentation |
+| 962d325 | docs: add legal analysis for public-sector compliance |
+| 0ad64b7 | feat: implement Apache 2.0 license |
+| 30b1659 | docs: add technical instructions for contributors |
+| a397b01 | docs: add community behavior standards |
+| ba47698 | Initial commit |
 
 ---
 
@@ -139,3 +139,13 @@ The open-source nature means anyone can fork, but the value lies in the communit
 ## Submission Date
 
 May 9, 2026
+
+---
+
+## Student Information
+
+**Student:** MUGANZI BENAIAH MUKOMYA
+
+**ID:** 23/BSE/BU/R/1004
+
+**Exam clearance:** 25SEM/BU/Exam372
